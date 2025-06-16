@@ -5,7 +5,7 @@ A simple physics-based ripple simulation project made using Python. This project
 ## 📁 Files in Repository
 
 - `ripple21.py`: Core simulation file 
-- `ripple22.py`: Updated/improved version with enhanced ripple behavior or UI
+- `ripple22.py`: Updated/improved version with enhanced ripple behavior and UI
 
 
 ## 🚀 Features
@@ -20,7 +20,8 @@ A simple physics-based ripple simulation project made using Python. This project
 Install dependencies using `pip`:
 
 ```bash
-pip install numpy matplotlib
+pip install numpy matplotlib pygame math
+import random
 (Adjust based on libraries used in your code, e.g., pygame, tkinter, etc.)
 
 ▶️ How to Run
