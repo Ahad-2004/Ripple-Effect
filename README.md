@@ -4,6 +4,7 @@ A simple physics-based ripple simulation project made using Python. This project
 
 ## 📁 Files in Repository
 
+- `Ripple_effect.py`: The latest and best version of the simulation for the project 
 - `ripple21.py`: Core simulation file 
 - `ripple22.py`: Updated/improved version with enhanced ripple behavior and UI
 
